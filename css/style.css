@@ -1,9 +1,9 @@
 body {
-	background-color: purple;
+	background-color: #FAF9F6;
 }
 
 #navbar {
-	background-color: blue;
+	background-color: #FFD700;
 	overflow: hidden;
 }
 
@@ -41,6 +41,6 @@ body {
 }
 
 #onpage {
-	background-color: red; 
+	background-color: #FFA500; 
 }
 
