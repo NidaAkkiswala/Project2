@@ -48,10 +48,13 @@ body {
 #footer {
 	text-align: center;
 	background-color:#F8F8FF;
+	margin-top: 2em;
 }
 
 #resume {
 	background-color: #000080;
+	margin-top: 2em;
+	margin-bottom: 2em;
 	margin-left: 3em;
 	margin-right: 3em;
 	color: white;
@@ -59,20 +62,22 @@ body {
 
 #anime {
 	background-color: #000080;
-	margin-left: 2em;
+	margin-left: 5em;
 	margin-right: 2em;
+	color: white;
+	float: right;
 	
 }
 
 #anime-side {
-	background-color: white;
+	background-color: B0C4DE;
 	float: left;
-	padding-left: 1em;
-	padding-right: 1 em;
-	height: 133.6em;
+	padding-left: 2em;
+	padding-right: 2em;
+	height: 100em;
 	position: relative;
-	top: -6.8em;
-	width:33em;
+	width:40em;
+	text-align: center;
 }
 	
 #heading {
