@@ -55,8 +55,8 @@ body {
 	background-color: #000080;
 	margin-top: 2em;
 	margin-bottom: 2em;
-	margin-left: 3em;
-	margin-right: 3em;
+	margin-left: 2em;
+	margin-right: 2em;
 	color: white;
 }
 
@@ -65,7 +65,6 @@ body {
 	margin-left: 3em;
 	margin-right: 3em;
 	color: white;
-	float: right;
 	
 }
 
@@ -84,6 +83,11 @@ body {
 	text-align: center;
 }
 
+#img {
+	width: 50;
+	height: 70;
+}
+	
 
 	
 	
