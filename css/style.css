@@ -76,12 +76,7 @@ body {
 #anime-lside {
 	background-color: #B0C4DE;
 	float: left;
-	margin-left: 2em;
-	margin-right: 2em;
-	height: 70em;
-	width:30em;
-	text-align: center;
-	position: relative;
+	
 }
 
 #anime-rside {
