@@ -27,6 +27,7 @@ body {
 	position: relative;
 	right: 50%;
 	display: block;
+	color: blue;
 }
 
 #main-navbar a {
@@ -55,8 +56,8 @@ body {
 	background-color: #000080;
 	margin-top: 2em;
 	margin-bottom: 2em;
-	margin-left: 2em;
-	margin-right: 2em;
+	margin-left: 3em;
+	margin-right: 3em;
 	color: white;
 }
 
@@ -65,17 +66,20 @@ body {
 	margin-left: 5em;
 	margin-right: 5em;
 	color: white;
+	padding-left: 2em;
+	padding-right: 2em;
+	position: relative;
 	
 }
 
 #anime-side {
 	background-color: B0C4DE;
-	float: left;
+	float: right;
 	padding-left: 1em;
 	padding-right: 1em;
 	height: 100em;
 	position: relative;
-	width:34em;
+	width:40em;
 	text-align: center;
 	top: -6.8em;
 }
