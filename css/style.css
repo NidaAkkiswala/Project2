@@ -79,7 +79,7 @@ body {
 	padding-left: 50px;
 	padding-right: 50px;
 	width: 30em;
-	height: 150em;
+	height: 100em;
 	text-align: center;
 	
 }
@@ -87,7 +87,7 @@ body {
 #anime-rside {
 	background-color: #B0C4DE;
 	float: right;
-	height: 150em;
+	height: 100em;
 	width: 30em;
 	text-align: center;
 	padding-right: 50px;
@@ -103,8 +103,8 @@ body {
 #box {
 	background-color: #B0C4DE;
 	font-family: Arial;
-	width: 100px;
-	height: 150px;
+	width: 200em;
+	height: 50em;
 }
 	
 
