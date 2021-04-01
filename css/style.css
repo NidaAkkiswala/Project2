@@ -1,5 +1,5 @@
 body {
-	background-color: #white;
+	background-color: #FFFDD0;
 }
 
 #navbar {
@@ -41,6 +41,11 @@ body {
 }
 
 #onpage {
-	background-color: #FFA500; 
+	background-color: #FFD700; 
 }
+
+#resume {
+	background-color: #FFD700;
+}
+	
 
