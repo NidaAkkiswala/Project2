@@ -42,20 +42,19 @@ body {
 
 #onpage {
 	background-color: #FFF0F5;
-	text-decoration: underline;
 	
 }
 
 #footer {
 	text-align: center;
 	background-color:#F8F8FF;
-	margin-top: 1%;
 }
 
 #resume {
 	background-color: #000080;
 	margin-left: 3em;
 	margin-right: 3em;
+	color: white;
 }
 
 #anime {
@@ -75,6 +74,12 @@ body {
 	top: -6.8em;
 	width:33em;
 }
+	
+#heading {
+	text-align: center;
+}
+
+
 	
 	
 	
