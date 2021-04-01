@@ -93,14 +93,18 @@ body {
 	padding-right: 50px;
 	padding-left: 50px;
 }
-	
-	
-h1 {
+
+#heading {
 	text-align: center;
 	font-family: 'Cinzel', serif;
 }
 
-#title {
+#title1 {
+	font-family: 'Cinzel', serif;
+	font-family: 'Reggae One', cursive;
+}
+
+#title2 {
 	font-family: 'Cinzel', serif;
 	font-family: 'Reggae One', cursive;
 }
