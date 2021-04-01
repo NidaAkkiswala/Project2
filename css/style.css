@@ -76,16 +76,17 @@ body {
 #anime-lside {
 	background-color: #B0C4DE;
 	float: left;
-	padding-left: 30px;
-	padding-right: 30px;
+	padding-left: 50px;
+	padding-right: 50px;
 	width: 30em;
-	height: 100em;
+	height: 150em;
 	
 }
 
 #anime-rside {
 	background-color: #B0C4DE;
 	float: right;
+	height: 150em;
 }
 	
 	
