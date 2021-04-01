@@ -1,9 +1,9 @@
 body {
-	background-color: #87CEFA;
+	background-color: #00BFFF;
 }
 
 #navbar {
-	background-color: #A9A9A9;
+	background-color: #FFF0F5;
 	overflow: hidden;
 }
 
@@ -41,30 +41,29 @@ body {
 }
 
 #onpage {
-	background-color: #A9A9A9; 
-	text-decoration: underline;
+	background-color: #FFF0F5; 
 }
 
 #footer {
 	text-align: center;
-	background-color:#A9A9A9;
+	background-color:#F8F8FF;
 	margin-top: 1%;
 }
 
 #resume {
-	background-color: #A9A9A9;
+	background-color: #000080;
 	margin-left: 3em;
 	margin-right: 3em;
 }
 
 #anime {
-	background-color: #696969;
+	background-color: #000080;
 	margin-left: 2em;
 	margin-right: 2em;
 	
 }
 
-.anime-side {
+#anime-side {
 	background-color: white;
 	float: left;
 	padding-left: 1em;
