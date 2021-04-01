@@ -100,12 +100,8 @@ body {
 	font-family: 'Cinzel', serif;
 }
 
-#box {
-	background-color: #B0C4DE;
-	font-family: Arial;
-	float: left;
-	padding-left:50px;
-	padding-right: 50px;
+#title {
+	font-family: 'Reggae One', cursive;
 }
 	
 
