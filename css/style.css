@@ -62,8 +62,8 @@ body {
 
 #anime {
 	background-color: #000080;
-	margin-left: 3em;
-	margin-right: 3em;
+	margin-left: 5em;
+	margin-right: 5em;
 	color: white;
 	
 }
@@ -71,12 +71,13 @@ body {
 #anime-side {
 	background-color: B0C4DE;
 	float: left;
-	padding-left: 2em;
-	padding-right: 2em;
+	padding-left: 1em;
+	padding-right: 1em;
 	height: 100em;
 	position: relative;
 	width:34em;
 	text-align: center;
+	top: -6.8em;
 }
 	
 #heading {
