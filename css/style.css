@@ -3,7 +3,7 @@ body {
 }
 
 #navbar {
-	background-color: #FFD700;
+	background-color: #A9A9A9;
 	overflow: hidden;
 }
 
@@ -41,30 +41,39 @@ body {
 }
 
 #onpage {
-	background-color: #FFD700; 
+	background-color: #A9A9A9; 
 	text-decoration: underline;
 }
 
 #footer {
 	text-align: center;
-	background-color:#FFD700;
+	background-color:#A9A9A9;
 	margin-top: 1%;
 }
 
 #resume {
-	background-color: #FFD700;
+	background-color: #A9A9A9;
 	margin-left: 3em;
 	margin-right: 3em;
 }
 
 #anime {
-	background-color: black;
+	background-color: #696969;
 	margin-left: 2em;
 	margin-right: 2em;
+	
 }
 
 #anime-side {
 	background-color: white;
+	float: left;
+	padding-left: 1em;
+	padding-right: 1 em;
+	height: 133.6em;
+	position: relative;
+	top: -6.8em;
+	width:33em;
+}
 	
 	
 	
