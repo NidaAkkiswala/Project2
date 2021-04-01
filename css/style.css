@@ -15,33 +15,40 @@ body {
 
 #navbar ul {
 	list-style-type:none;
-	margin: 0;
-	padding: 0;
+	margin: .5em;
+	padding: .5em;
 	position: relative;
 	left: 50%;
 	float: left;
 }
 
-#main-navbar li {
+#main-navbar ul li {
 	float: left;
 	position: relative;
 	right: 50%;
 	display: block;
 }
 
-#main-navbar a {
+#main-navbar ul li a {
 	display: block;
-	padding: 10px 20px;
+	padding: .625em 1.25em;
 	color: #fff;
 	text-decoration: none;
 }
 
-#main-navbar a:hover {
-	background-color: #B0C4DE;
+#main-navbar ul li a:hover {
+	background-color: #000;
 }
 
 #onpage {
 	background-color: #FFD700; 
+	text-decoration: underline;
+}
+
+#footer {
+	text-align: center;
+	background-color:#FFD700;
+	margin-top: 1%;
 }
 
 #resume {
@@ -55,5 +62,10 @@ body {
 	margin-left: 2em;
 	margin-right: 2em;
 }
+
+#anime-side {
+	background-color: white;
+	
+	
 	
 
