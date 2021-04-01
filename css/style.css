@@ -73,7 +73,18 @@ body {
 	
 }
 
-#anime-side {
+#anime-lside {
+	background-color: #B0C4DE;
+	float: left;
+	padding-left: 1em;
+	padding-right: 1em;
+	height: 100em;
+	position: relative;
+	width:40em;
+	text-align: center;
+}
+
+#anime-rside {
 	background-color: #B0C4DE;
 	float: right;
 	padding-left: 1em;
@@ -82,7 +93,7 @@ body {
 	position: relative;
 	width:40em;
 	text-align: center;
-}
+	
 	
 #heading {
 	text-align: center;
