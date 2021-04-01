@@ -46,6 +46,12 @@ body {
 
 #resume {
 	background-color: #FFD700;
+	margin-left: 3em;
+	margin-right: 3em;
+}
+
+#anime {
+	background-color: black;
 	margin-left: 2em;
 	margin-right: 2em;
 }
